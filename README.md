@@ -1,12 +1,14 @@
 # Decentraland Awesome Repository
 
-Welcome to the Decentraland Awesome repository!
+Welcome to the Decentraland Awesome repository; a space dedicated towards recording and sharing Decentraland content!
 
 <img src="screenshots/shades.png" width="150">
 
-Here you can find content to help you build scenes for Decentraland. Here you'll find links to:
+In this repository you will find a wealth of information related to the Decentraland SDK, and is undoubtedly one of the best places to access practical examples and documentation about building in DCL.
 
-- [Examples](#Examples)
+This repository is organised into the following chapters:
+- [Key Concepts](#Key-Concepts)
+- [Scene Examples](#Scene-Examples)
 - [Libraries](#Libraries)
 - [Tutorials](#Tutorials)
 - [FAQs](#FAQs)
@@ -44,9 +46,9 @@ For a fully comprehensive introduction, we also recommend you read the following
 
 See the [Decentraland documentation](docs.decentraland.org) to find more specific information about various other.
 
-## Examples
+## Scene Examples
 
-### Essentials
+### Decentraland Essentials
 
 | Example                                                                       | Thumbnail                                                  | Description                                                                                                                                                                                                                                         |
 | ----------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
